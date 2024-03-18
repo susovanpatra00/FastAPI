@@ -1,2 +1,5 @@
 uvicorn
 fastapi
+pandas
+numpy
+scikit-learn
