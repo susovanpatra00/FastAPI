@@ -3,7 +3,7 @@
 
 ### Github Commands & Steps
 - Create a folder in yout system (say 'FastAPI')
-- Now go in the vscode terminal and create an environment using command - 'python3 -m venv fastapi_env'
+- Now go in the vscode terminal and create an environment using command - ```python3 -m venv fastapi_env```
 - Now activate is using the command - 'source fastapi_env/bin/activate'
 - Now create a repository in yout github (say 'FastAPI')
 - Now in the vscode create a file 'README.md'
